@@ -1,6 +1,6 @@
 #Tetris Game
 
-##Tecnologias:
+Tecnologias:
  - React
  - Hooks
  - Styled Components
