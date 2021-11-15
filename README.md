@@ -1,4 +1,4 @@
-#Tetris Game
+TETRIS GAME
 
 Tecnologias:
  - React
